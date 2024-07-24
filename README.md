@@ -1,3 +1,1 @@
 # tests-with-go
-
-вфцвфц
